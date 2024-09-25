@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Noukta</h1>
-<h3 align="center">A passionate Android developer from Morocco</h3>
+<h3 align="center">A cross-platform developer from Morocco</h3>
 
 - 🌱 I’m currently learning **Kotlin from Hyperskill**
 
 - 👨‍💻 All of my projects are available at [https://github.com/stars/Noukta/lists/my-stack](https://github.com/stars/Noukta/lists/my-stack)
 
-- 💬 Ask me about **Jetpack, firebase and kotlin**
+- 💬 Ask me about **Jetpack, firebase, kotlin and React (Native)**
 
 - 📫 How to reach me **ahmed.noukta@gmail.com**
 
-- 📄 Know about my experiences [https://cvdesignr.com/p/666b4655f3cb5?hl=en_GB](https://cvdesignr.com/p/666b4655f3cb5?hl=en_GB)
+- 📄 Know about my experiences [https://cvdesignr.com/p/666b4655f3cb5?hl=en_GB]([https://cvdesignr.com/p/666b4655f3cb5?hl=en_GB](https://drive.google.com/file/d/1cVb-zAMdDj_7F5de7DMlMcKsqT2udKvd/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
